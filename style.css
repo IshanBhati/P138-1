@@ -1,0 +1,59 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+.big_image
+{
+  width: 100%;
+}
+
+.heading button
+{
+  float: right;
+  border: 1px solid white;
+}
+
+.heading h3
+{
+  display: inline;
+}
+
+.heading_div2
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+#status , #objects_detected
+{
+  font-size: 18px;
+}
+
+body
+{
+  background-size: cover;
+  background-position: center;
+}
+
+canvas
+{
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px grey;
+  margin-top: 30px;
+}
+
+#play_game , #status
+{
+  font-size: 22px;
+}
+
+h4
+{
+  background-color: limegreen;
+  line-height: 3;
+  margin: 0px;
+}
